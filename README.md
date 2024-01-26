@@ -12,3 +12,9 @@
 - CSS
   
 # Funcionamento
+
+https://github.com/HigorSantos0/CalculadoraDeIMC/assets/104693796/4f04e6bc-ea0e-42b4-874b-5954653da586
+
+# Link do projeto
+
+https://calculadoratestehg.netlify.app/
